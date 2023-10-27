@@ -7,7 +7,7 @@
 - 显卡：NVIDIA GeForce 940MX + Intel HD Graphics 620
 
 ## macOS 信息
-[macOS Catalina 10.15.3(19D76)](https://github.com/zxr615/ThinkPadT570_EFI)
+[macOS Catalina 10.15.3(19D76)](https://github.com/zxr615/ThinkPadT570_EFI)  
 macOS Big Sur 11.6 OC
 
 ## 不可用功能
